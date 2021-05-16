@@ -1,10 +1,9 @@
-# UberFare
-Build a regression model to predict the fare amout for Uber passengers.
+# Build a Regression Model to Predict the Fare amount for Uber Passengers.
 
-Problem Statement Scenario: 
+## Problem Statement
 A fare calculator helps a customer in identifying the fare valid for the trip. They are often used by passengers who are new to a city or tourists to get an estimate of travel costs. You are provided with a dataset with features like fare amount, pickup and drop location, passenger count, and so on.
 
-# Following actions should be performed:
+#### Following actions should be performed:
 1. Understand the type of data.
 2. Identify the output variable.
 3. Identify the factors which affect the output variable.
